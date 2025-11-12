@@ -24,7 +24,6 @@ Whether you're a beginner looking for guidance, a student working on a final yea
 -  **Food Recognition** – YOLOv5 model estimates nutrition from camera-captured food images.
 -  **Health Metrics** – Calculates BMI, BMR, and stores data in a MySQL database.
 -  **Personalized Fitness Plan** – Tailored routines based on your body profile and goals.
--  **Meal Planner** – Smart meal suggestions for weight loss, muscle gain, or maintenance.
 -  **AI Integration** – Uses deep learning & pose estimation for accurate analysis.
 -  **MySQL Integration** – Logs workouts, meals, and progress for every user.
 
@@ -76,19 +75,3 @@ Whether you're a beginner looking for guidance, a student working on a final yea
 
 This is our final year project, and it includes all the trending technologies like AI and Deep Learning.
 For 1st, 2nd, and 3rd-year students, this can be a great reference model to showcase in your college and score full marks.
-
-## 📄 Research Paper
-
-We have also published a research paper based on an earlier version of this project — feel free to check it out for reference.  
-Since then, we've made significant improvements to the model.
-
- **[View Research Paper (PDF)](Paper/Paper%20published%20for%20reference.pdf)**
-
-
-⚠️ Note: I won’t be uploading the main folder and SQL file required to run the full model here.
-📩 If you’re interested in running the complete project, feel free to contact me — I’ll provide all the necessary files and step-by-step guidance.
-
-
-**Contact** 
-📧 preetham159@gmail.com
-📧 preethamn2004@gmail.com
